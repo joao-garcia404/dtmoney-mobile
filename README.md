@@ -2,9 +2,9 @@
   <img src="./src/assets/Logo@2x.png" alt="dtmoney" />
 </h3>
 
-<h1 align="center">
+<h2 align="center">
   Versão mobile da aplicação dtmoney
-</h1>
+</h2>
 
 ## 💇🏻‍♂️ Sobre o projeto
 
