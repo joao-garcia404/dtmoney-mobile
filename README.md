@@ -52,7 +52,7 @@ $ yarn start
 # Caso esteja utilizando IOS
 $ yarn ios
 
-## Caso esteja utilizando Android
+# Caso esteja utilizando Android
 $ yarn android
 
 ```
